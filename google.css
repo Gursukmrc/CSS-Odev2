@@ -1,0 +1,55 @@
+header{
+    margin: auto;
+    width: 351px;
+    height: 113px;
+}
+body{
+    background-color: #FFFFFF;
+    font-family: 'Times New Roman';
+}
+
+.center1{
+    background-color: #EEEEEE;
+    height: 62px;
+    width: 90%;
+    margin: auto;
+    font-size: medium;  
+}
+center{
+    display: block;
+    text-align: center;
+}
+.alt-cubuk {
+    
+    width: 90%;
+    margin: auto;
+    
+    
+}
+.alt-cubuk1 {
+    width: 36%;
+    background-color: rgb(126, 229, 218);
+
+    border: 2px;
+    border: #EEEEEE;
+    
+}
+.alt-cubuk2 {
+    width: 17%;
+    background-color: #70CCC2;
+    font-size: 13px;
+    border: 2px;
+}
+.alt-cubuk3 {
+ background-color: #62b3aa;
+ width: 40%;
+ border: 2px;
+ font-size: 13px;
+ 
+}
+.copy{
+    font-size: 13px;
+}
+.submit{
+    padding: 1px,6px;
+}
